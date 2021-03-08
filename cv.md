@@ -15,7 +15,7 @@
 >Python, OpenVino, Pandas, basic C++, JS.
 ### Human Languages
 -------------------
-* Russian (native speaker)
+* Russian (native speaker)ё
 * English (A2-B1)
 
 ### Exemple Code
