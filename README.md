@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Andrey-pu.github.io/rsschool-cv/cv
